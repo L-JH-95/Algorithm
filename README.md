@@ -9,6 +9,11 @@
 	- 1726 로봇
 	- 17135 캐슬디펜스
 
-# 2020.03.18
-	- 15906 변신이동게임(다익스트라)
-	- [Dijkstra vs Bfs ](./Dijkstra.md)
+# 2020.03.18 
+
+ [Dijstra vs Bfs](./Dijkstra.md)
+
+	- 15906 변신이동게임 [Dijstra vs Bfs](./Dijkstra.md)
+
+
+
