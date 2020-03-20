@@ -12,7 +12,8 @@
 # 2020.03.18 
 
  [Dijstra vs Bfs](./Dijkstra.md)
-	- 15906 변신이동게임 [Dijstra vs Bfs](./Dijkstra.md)
+	
+	- 15906 변신이동게임
 
 # 2020.03.19
 	- 9466 텀 프로젝트 ( DFS, 시간초과가 문제 )
